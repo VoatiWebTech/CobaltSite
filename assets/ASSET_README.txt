@@ -2,7 +2,7 @@ COBALT SKIES 2026 — LOGO PRODUCTION ASSETS
 
 FINAL LOCKED MASTER: CS_2026_original_master.png. The original is never modified.
 
-TRANSPARENT: assets/transparent/*.png are alpha-matted exports generated from the black-background master. Transparency is approximate; inspect fine feathers, stars, dark blue arcs, and the interior before printing.
+TRANSPARENT: assets/transparent/*.png are alpha-matted exports generated from the black-background master. Only the black outside the outer ring is removed; everything inside the ring, including the night sky, stays fully opaque. Edges are softened by about 1px. Check the outer feather tips before large-format printing.
 
 SVG EXACT VISUAL: assets/vector/*embedded.svg contain the ORIGINAL/TRANSPARENT RASTER IMAGE inside a scalable SVG container. These are NOT fully editable vector paths. The visual composition is unchanged.
 
