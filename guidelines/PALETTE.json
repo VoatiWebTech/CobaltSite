@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Midnight Cosmos",
+    "hex": "#040D26",
+    "usage": "background"
+  },
+  {
+    "name": "Cobalt Blue",
+    "hex": "#0047AB",
+    "usage": "primary"
+  },
+  {
+    "name": "Phoenix Gold",
+    "hex": "#DCAB53",
+    "usage": "accent"
+  },
+  {
+    "name": "Agni Orange",
+    "hex": "#FF8C28",
+    "usage": "elemental"
+  },
+  {
+    "name": "Jala Cyan",
+    "hex": "#36C5FF",
+    "usage": "elemental"
+  },
+  {
+    "name": "Celestial Silver",
+    "hex": "#B9C9DE",
+    "usage": "support"
+  },
+  {
+    "name": "Starlight White",
+    "hex": "#F1F4FA",
+    "usage": "text"
+  },
+  {
+    "name": "Cosmic Violet",
+    "hex": "#6546C8",
+    "usage": "subtle accent"
+  }
+]
